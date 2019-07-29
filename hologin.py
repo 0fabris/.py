@@ -20,8 +20,10 @@ class HoMobile():
         self.pasw = sys.argv[2]
         r = self.login()
         if(r):
+            print('\n\t --- Benvenuto! ---\n')
             print("\n\nCredito per il numero {}: {} euro.\n".format(self.ntel,self.credito()))
             self.consumi()
+            
     def login(self):
         urlCheck = self.restapi + 'LoginService/checkAccount'
         urlLogin = self.restapi + 'LoginService/login'
@@ -58,8 +60,6 @@ class HoMobile():
 
         if '@' in self.ntel:
             self.ntel = resplogin['customerPhoneNumberList'][0]['phoneNumber']
-
-        print('\n\t --- Benvenuto! ---\n')
 
         return True
 
