@@ -1,0 +1,5957 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.768814,
+                    46.076529
+                ]
+            },
+            "properties": {
+                "alt": 142,
+                "stazione_id": 101,
+                "sito_id": 2229,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Vivaro",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.545003,
+                    45.917972
+                ]
+            },
+            "properties": {
+                "alt": 22,
+                "stazione_id": 103,
+                "sito_id": 2231,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Brugnera",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.073886,
+                    46.101692
+                ]
+            },
+            "properties": {
+                "alt": 148,
+                "stazione_id": 105,
+                "sito_id": 2233,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Fagagna",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.226672,
+                    46.035212
+                ]
+            },
+            "properties": {
+                "alt": 91,
+                "stazione_id": 106,
+                "sito_id": 2234,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Udine S.O.",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.155779,
+                    45.882311
+                ]
+            },
+            "properties": {
+                "alt": 16,
+                "stazione_id": 107,
+                "sito_id": 2235,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Talmassons",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.052598,
+                    45.805702
+                ]
+            },
+            "properties": {
+                "alt": 5,
+                "stazione_id": 108,
+                "sito_id": 2236,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Palazzolo dello Stella",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.512333,
+                    45.958094
+                ]
+            },
+            "properties": {
+                "alt": 85,
+                "stazione_id": 109,
+                "sito_id": 2237,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Capriva del Friuli",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.481807,
+                    45.889791
+                ]
+            },
+            "properties": {
+                "alt": 29,
+                "stazione_id": 110,
+                "sito_id": 2238,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Gradisca d'Is.",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.458865,
+                    45.714768
+                ]
+            },
+            "properties": {
+                "alt": 0,
+                "stazione_id": 111,
+                "sito_id": 2239,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.5",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Fossalon",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.337015,
+                    45.849486
+                ]
+            },
+            "properties": {
+                "alt": 8,
+                "stazione_id": 112,
+                "sito_id": 2240,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cervignano del Friuli",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.752242,
+                    45.649996
+                ]
+            },
+            "properties": {
+                "alt": 1,
+                "stazione_id": 113,
+                "sito_id": 2241,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 1,
+                "ec": "1.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Trieste molo F.lli Bandiera",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.742056,
+                    45.738004
+                ]
+            },
+            "properties": {
+                "alt": 268,
+                "stazione_id": 114,
+                "sito_id": 2242,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Sgonico-Zgonik",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.122088,
+                    46.261297
+                ]
+            },
+            "properties": {
+                "alt": 184,
+                "stazione_id": 115,
+                "sito_id": 2243,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Gemona del Friuli",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.002742,
+                    45.952356
+                ]
+            },
+            "properties": {
+                "alt": 37,
+                "stazione_id": 116,
+                "sito_id": 2244,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Codroipo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.681257,
+                    45.953618
+                ]
+            },
+            "properties": {
+                "alt": 23,
+                "stazione_id": 117,
+                "sito_id": 2245,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pordenone",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.420014,
+                    46.080442
+                ]
+            },
+            "properties": {
+                "alt": 127,
+                "stazione_id": 120,
+                "sito_id": 2247,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 2,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cividale del Friuli",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.926251,
+                    46.502355
+                ]
+            },
+            "properties": {
+                "alt": 1750,
+                "stazione_id": 121,
+                "sito_id": 2248,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Monte Zoncolan",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.597723,
+                    46.157287
+                ]
+            },
+            "properties": {
+                "alt": 1528,
+                "stazione_id": 123,
+                "sito_id": 2250,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pala d'Altei",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.529107,
+                    46.211683
+                ]
+            },
+            "properties": {
+                "alt": 1630,
+                "stazione_id": 124,
+                "sito_id": 2251,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Monte Matajur",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.551886,
+                    46.510775
+                ]
+            },
+            "properties": {
+                "alt": 794,
+                "stazione_id": 126,
+                "sito_id": 2253,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Tarvisio",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.862536,
+                    46.410416
+                ]
+            },
+            "properties": {
+                "alt": 438,
+                "stazione_id": 127,
+                "sito_id": 2254,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Enemonzo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.520058,
+                    46.482536
+                ]
+            },
+            "properties": {
+                "alt": 1743,
+                "stazione_id": 128,
+                "sito_id": 5590,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Monte Lussari sm",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59368,
+                    46.409798
+                ]
+            },
+            "properties": {
+                "alt": 922,
+                "stazione_id": 129,
+                "sito_id": 2255,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Forni di Sopra",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9458,
+                    46.0108
+                ]
+            },
+            "properties": {
+                "alt": 69,
+                "stazione_id": 132,
+                "sito_id": 2285,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Rivis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09,
+                    45.8783
+                ]
+            },
+            "properties": {
+                "alt": 13,
+                "stazione_id": 133,
+                "sito_id": 2286,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Ariis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9386,
+                    45.9203
+                ]
+            },
+            "properties": {
+                "alt": 30,
+                "stazione_id": 136,
+                "sito_id": 2288,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Camino",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3127,
+                    45.7687
+                ]
+            },
+            "properties": {
+                "alt": 0,
+                "stazione_id": 142,
+                "sito_id": 2712,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Terzo d'Aquileia",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3683,
+                    45.8225
+                ]
+            },
+            "properties": {
+                "alt": 6,
+                "stazione_id": 145,
+                "sito_id": 2713,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cervignano - Scodovacca",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.752682,
+                    45.610495
+                ]
+            },
+            "properties": {
+                "alt": 2,
+                "stazione_id": 154,
+                "sito_id": 2258,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "1.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Muggia",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.396556,
+                    45.671362
+                ]
+            },
+            "properties": {
+                "alt": 0,
+                "stazione_id": 155,
+                "sito_id": 2259,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "1.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Grado-mare",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.303041,
+                    46.044247
+                ]
+            },
+            "properties": {
+                "alt": 91,
+                "stazione_id": 164,
+                "sito_id": 2278,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pradamano",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.272538,
+                    45.982046
+                ]
+            },
+            "properties": {
+                "alt": 60,
+                "stazione_id": 166,
+                "sito_id": 2261,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Lauzacco",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24014,
+                    45.928808
+                ]
+            },
+            "properties": {
+                "alt": 33,
+                "stazione_id": 167,
+                "sito_id": 2262,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Bicinicco",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.021904,
+                    45.736227
+                ]
+            },
+            "properties": {
+                "alt": 5,
+                "stazione_id": 168,
+                "sito_id": 2263,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Gorgo",
+                "complex": false,
+                "max": "MAX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.567703,
+                    46.437067
+                ]
+            },
+            "properties": {
+                "alt": 914,
+                "stazione_id": 184,
+                "sito_id": 2267,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 1,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cave del Predil",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.005854,
+                    46.399425
+                ]
+            },
+            "properties": {
+                "alt": 314,
+                "stazione_id": 185,
+                "sito_id": 2268,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Tolmezzo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.274682,
+                    46.312663
+                ]
+            },
+            "properties": {
+                "alt": 600,
+                "stazione_id": 190,
+                "sito_id": 2270,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Musi",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.734044,
+                    46.254523
+                ]
+            },
+            "properties": {
+                "alt": 345,
+                "stazione_id": 191,
+                "sito_id": 2271,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Chievolis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.081196,
+                    46.332764
+                ]
+            },
+            "properties": {
+                "alt": 230,
+                "stazione_id": 192,
+                "sito_id": 2272,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Bordano",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.571028,
+                    46.193202
+                ]
+            },
+            "properties": {
+                "alt": 468,
+                "stazione_id": 195,
+                "sito_id": 2275,
+                "rete": "2",
+                "rete_nome": "micros",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Barcis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.254918,
+                    46.171419
+                ]
+            },
+            "properties": {
+                "alt": 155,
+                "stazione_id": 527,
+                "sito_id": 1821,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Zompitta Meteo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.808239,
+                    46.142609
+                ]
+            },
+            "properties": {
+                "alt": 176,
+                "stazione_id": 529,
+                "sito_id": 1823,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Arba",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.713023,
+                    45.874034
+                ]
+            },
+            "properties": {
+                "alt": 15,
+                "stazione_id": 531,
+                "sito_id": 1825,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Zuiano",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.805129,
+                    45.840324
+                ]
+            },
+            "properties": {
+                "alt": 8,
+                "stazione_id": 532,
+                "sito_id": 1826,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Mure",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588596,
+                    45.998441
+                ]
+            },
+            "properties": {
+                "alt": 40,
+                "stazione_id": 533,
+                "sito_id": 1827,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Forcate",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.521736,
+                    46.113415
+                ]
+            },
+            "properties": {
+                "alt": 1280,
+                "stazione_id": 547,
+                "sito_id": 1841,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Piancavallo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.563592,
+                    46.192837
+                ]
+            },
+            "properties": {
+                "alt": 410,
+                "stazione_id": 548,
+                "sito_id": 1842,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Barcis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.489006,
+                    46.192833
+                ]
+            },
+            "properties": {
+                "alt": 640,
+                "stazione_id": 549,
+                "sito_id": 1843,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Prescudin",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.611826,
+                    46.198877
+                ]
+            },
+            "properties": {
+                "alt": 455,
+                "stazione_id": 550,
+                "sito_id": 1844,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Andreis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.795022,
+                    46.225798
+                ]
+            },
+            "properties": {
+                "alt": 323,
+                "stazione_id": 551,
+                "sito_id": 1845,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cilia",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.236568,
+                    46.06495
+                ]
+            },
+            "properties": {
+                "alt": 138,
+                "stazione_id": 556,
+                "sito_id": 1850,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Udine",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.532923,
+                    46.194487
+                ]
+            },
+            "properties": {
+                "alt": 1085,
+                "stazione_id": 558,
+                "sito_id": 1852,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Montemaggiore",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.642517,
+                    46.164899
+                ]
+            },
+            "properties": {
+                "alt": 650,
+                "stazione_id": 559,
+                "sito_id": 1853,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "S.Volfango",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.595497,
+                    45.91039
+                ]
+            },
+            "properties": {
+                "alt": 68,
+                "stazione_id": 572,
+                "sito_id": 1866,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Gorizia Aeroporto",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.418361,
+                    46.096646
+                ]
+            },
+            "properties": {
+                "alt": 130,
+                "stazione_id": 573,
+                "sito_id": 1867,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cividale T.P.",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.071405,
+                    46.23644
+                ]
+            },
+            "properties": {
+                "alt": 172,
+                "stazione_id": 575,
+                "sito_id": 1869,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 1,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Osoppo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.448543,
+                    46.462206
+                ]
+            },
+            "properties": {
+                "alt": 1392,
+                "stazione_id": 576,
+                "sito_id": 1870,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Sella di Sompdogna",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.005162,
+                    46.409853
+                ]
+            },
+            "properties": {
+                "alt": 330,
+                "stazione_id": 581,
+                "sito_id": 1875,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Tolmezzo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.185105,
+                    46.400134
+                ]
+            },
+            "properties": {
+                "alt": 310,
+                "stazione_id": 582,
+                "sito_id": 1876,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Moggio Udinese",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.373289,
+                    45.68035
+                ]
+            },
+            "properties": {
+                "alt": 0,
+                "stazione_id": 585,
+                "sito_id": 1879,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 1,
+                "ec": "1.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Grado Meteo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.380049,
+                    46.242834
+                ]
+            },
+            "properties": {
+                "alt": 657,
+                "stazione_id": 594,
+                "sito_id": 1888,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Platischis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.593907,
+                    46.504361
+                ]
+            },
+            "properties": {
+                "alt": 725,
+                "stazione_id": 595,
+                "sito_id": 1889,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Tarvisio",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.303422,
+                    46.53002
+                ]
+            },
+            "properties": {
+                "alt": 900,
+                "stazione_id": 596,
+                "sito_id": 1890,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pramollo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.375346,
+                    46.402789
+                ]
+            },
+            "properties": {
+                "alt": 506,
+                "stazione_id": 597,
+                "sito_id": 1891,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Saletto",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.775179,
+                    46.52188
+                ]
+            },
+            "properties": {
+                "alt": 710,
+                "stazione_id": 598,
+                "sito_id": 1892,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pesariis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.773752,
+                    46.586742
+                ]
+            },
+            "properties": {
+                "alt": 888,
+                "stazione_id": 599,
+                "sito_id": 1893,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Forni Avoltri",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.392204,
+                    46.347911
+                ]
+            },
+            "properties": {
+                "alt": 641,
+                "stazione_id": 600,
+                "sito_id": 1894,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Coritis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.006879,
+                    46.576365
+                ]
+            },
+            "properties": {
+                "alt": 830,
+                "stazione_id": 601,
+                "sito_id": 1895,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Timau",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.121001,
+                    46.526404
+                ]
+            },
+            "properties": {
+                "alt": 690,
+                "stazione_id": 602,
+                "sito_id": 1896,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Paularo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307517,
+                    46.50607
+                ]
+            },
+            "properties": {
+                "alt": 568,
+                "stazione_id": 605,
+                "sito_id": 1899,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pontebba T.P.",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371912,
+                    46.452159
+                ]
+            },
+            "properties": {
+                "alt": 804,
+                "stazione_id": 607,
+                "sito_id": 1901,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Chiout",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.936359,
+                    46.312492
+                ]
+            },
+            "properties": {
+                "alt": 389,
+                "stazione_id": 609,
+                "sito_id": 1903,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "S.Francesco T.P.",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.490023,
+                    46.048194
+                ]
+            },
+            "properties": {
+                "alt": 105,
+                "stazione_id": 611,
+                "sito_id": 1905,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Prepotto",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.805599,
+                    46.518904
+                ]
+            },
+            "properties": {
+                "alt": 674,
+                "stazione_id": 612,
+                "sito_id": 1906,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Prato Carnico",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.570664,
+                    46.442342
+                ]
+            },
+            "properties": {
+                "alt": 900,
+                "stazione_id": 613,
+                "sito_id": 1907,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cave del Predil",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.317483,
+                    46.404778
+                ]
+            },
+            "properties": {
+                "alt": 400,
+                "stazione_id": 615,
+                "sito_id": 1909,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Chiusaforte",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.221506,
+                    46.388844
+                ]
+            },
+            "properties": {
+                "alt": 316,
+                "stazione_id": 616,
+                "sito_id": 1910,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Resiutta",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.864485,
+                    46.505718
+                ]
+            },
+            "properties": {
+                "alt": 520,
+                "stazione_id": 618,
+                "sito_id": 1912,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Comeglians",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.587643,
+                    46.404774
+                ]
+            },
+            "properties": {
+                "alt": 845,
+                "stazione_id": 619,
+                "sito_id": 1913,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Forni di Sopra",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.035914,
+                    46.456385
+                ]
+            },
+            "properties": {
+                "alt": 402,
+                "stazione_id": 620,
+                "sito_id": 1914,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cedarchis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.940293,
+                    46.358905
+                ]
+            },
+            "properties": {
+                "alt": 954,
+                "stazione_id": 621,
+                "sito_id": 1915,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Sella Chianzutan",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.272579,
+                    46.307267
+                ]
+            },
+            "properties": {
+                "alt": 523,
+                "stazione_id": 622,
+                "sito_id": 1916,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Musi",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.351805,
+                    46.204872
+                ]
+            },
+            "properties": {
+                "alt": 716,
+                "stazione_id": 623,
+                "sito_id": 1917,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Subit di Attimis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.483301,
+                    46.173193
+                ]
+            },
+            "properties": {
+                "alt": 184,
+                "stazione_id": 624,
+                "sito_id": 1918,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pulfero",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49472,
+                    46.118361
+                ]
+            },
+            "properties": {
+                "alt": 165,
+                "stazione_id": 625,
+                "sito_id": 1919,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Azzida",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.793117,
+                    46.298169
+                ]
+            },
+            "properties": {
+                "alt": 370,
+                "stazione_id": 627,
+                "sito_id": 1921,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Tramonti di Sotto",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.773192,
+                    46.217914
+                ]
+            },
+            "properties": {
+                "alt": 323,
+                "stazione_id": 628,
+                "sito_id": 1922,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Meduno",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.440848,
+                    46.285648
+                ]
+            },
+            "properties": {
+                "alt": 650,
+                "stazione_id": 629,
+                "sito_id": 1923,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cimolais",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.544792,
+                    46.27207
+                ]
+            },
+            "properties": {
+                "alt": 620,
+                "stazione_id": 630,
+                "sito_id": 1924,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Lesis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.141167,
+                    46.278808
+                ]
+            },
+            "properties": {
+                "alt": 307,
+                "stazione_id": 631,
+                "sito_id": 1925,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Gemona del Friuli",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.333247,
+                    45.910897
+                ]
+            },
+            "properties": {
+                "alt": 42,
+                "stazione_id": 643,
+                "sito_id": 1937,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Palmanova",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.649689,
+                    45.958625
+                ]
+            },
+            "properties": {
+                "alt": 36,
+                "stazione_id": 646,
+                "sito_id": 1940,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pordenone Meteo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75672,
+                    45.703943
+                ]
+            },
+            "properties": {
+                "alt": 270,
+                "stazione_id": 647,
+                "sito_id": 1941,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Prosecco",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.833167,
+                    45.635432
+                ]
+            },
+            "properties": {
+                "alt": 257,
+                "stazione_id": 648,
+                "sito_id": 1942,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Trieste Cattinara",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.686795,
+                    45.765474
+                ]
+            },
+            "properties": {
+                "alt": 225,
+                "stazione_id": 649,
+                "sito_id": 1943,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "San Pelagio",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54884,
+                    45.78141
+                ]
+            },
+            "properties": {
+                "alt": 3,
+                "stazione_id": 650,
+                "sito_id": 1944,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 1,
+                "ec": "1.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Monfalcone",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.453563,
+                    45.976674
+                ]
+            },
+            "properties": {
+                "alt": 84,
+                "stazione_id": 651,
+                "sito_id": 1945,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cormons",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.021877,
+                    46.421844
+                ]
+            },
+            "properties": {
+                "alt": 354,
+                "stazione_id": 653,
+                "sito_id": 1947,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Tolmezzo meteo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.917969,
+                    46.229896
+                ]
+            },
+            "properties": {
+                "alt": 591,
+                "stazione_id": 656,
+                "sito_id": 1950,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Clauzetto",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.681997,
+                    46.467271
+                ]
+            },
+            "properties": {
+                "alt": 1414,
+                "stazione_id": 659,
+                "sito_id": 1953,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Sauris di Sopra",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.275573,
+                    45.818818
+                ]
+            },
+            "properties": {
+                "alt": 7,
+                "stazione_id": 660,
+                "sito_id": 1954,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Torviscosa",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.839108,
+                    46.585548
+                ]
+            },
+            "properties": {
+                "alt": 1285,
+                "stazione_id": 661,
+                "sito_id": 1955,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Collina (Forni Avoltri)",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.441782,
+                    46.507888
+                ]
+            },
+            "properties": {
+                "alt": 733,
+                "stazione_id": 662,
+                "sito_id": 1956,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Malborghetto F.Fella",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.189593,
+                    46.486164
+                ]
+            },
+            "properties": {
+                "alt": 744,
+                "stazione_id": 664,
+                "sito_id": 1958,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Bevorchians",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.474892,
+                    46.543173
+                ]
+            },
+            "properties": {
+                "alt": 1146,
+                "stazione_id": 666,
+                "sito_id": 1960,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Val Ugovizza",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.055655,
+                    46.309219
+                ]
+            },
+            "properties": {
+                "alt": 213,
+                "stazione_id": 681,
+                "sito_id": 1975,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Alesso",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.275149,
+                    46.559729
+                ]
+            },
+            "properties": {
+                "alt": 1530,
+                "stazione_id": 688,
+                "sito_id": 1982,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 4,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Passo Pramollo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.168633,
+                    46.567892
+                ]
+            },
+            "properties": {
+                "alt": 1554,
+                "stazione_id": 689,
+                "sito_id": 1983,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cason di Lanza",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.573752,
+                    46.418783
+                ]
+            },
+            "properties": {
+                "alt": 1148,
+                "stazione_id": 690,
+                "sito_id": 1984,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Passo Predil",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.469737,
+                    46.375066
+                ]
+            },
+            "properties": {
+                "alt": 1837,
+                "stazione_id": 691,
+                "sito_id": 1985,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Livinal Lunc",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.899767,
+                    46.594328
+                ]
+            },
+            "properties": {
+                "alt": 1983,
+                "stazione_id": 692,
+                "sito_id": 1986,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 1,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Malga Plotta",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18774,
+                    46.360225
+                ]
+            },
+            "properties": {
+                "alt": 1666,
+                "stazione_id": 693,
+                "sito_id": 1987,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Malga Cjariguart",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.678983,
+                    46.351197
+                ]
+            },
+            "properties": {
+                "alt": 1710,
+                "stazione_id": 694,
+                "sito_id": 1988,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Malga Chiampiuz",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.662068,
+                    46.466821
+                ]
+            },
+            "properties": {
+                "alt": 1007,
+                "stazione_id": 696,
+                "sito_id": 1990,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Fusine Alpe del Lago",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.350829,
+                    46.290693
+                ]
+            },
+            "properties": {
+                "alt": 1422,
+                "stazione_id": 697,
+                "sito_id": 1991,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Gran Monte",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.983632,
+                    46.557444
+                ]
+            },
+            "properties": {
+                "alt": 1671,
+                "stazione_id": 698,
+                "sito_id": 1992,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Casera Zoufplan bassa",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.626938,
+                    46.452038
+                ]
+            },
+            "properties": {
+                "alt": 1710,
+                "stazione_id": 699,
+                "sito_id": 1993,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Chiansaveit",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.039309,
+                    46.014194
+                ]
+            },
+            "properties": {
+                "alt": 75,
+                "stazione_id": 706,
+                "sito_id": 2000,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 1,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pantianicco",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.026389,
+                    46.146955
+                ]
+            },
+            "properties": {
+                "alt": 149,
+                "stazione_id": 708,
+                "sito_id": 2002,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "San Mauro",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.113336,
+                    45.833337
+                ]
+            },
+            "properties": {
+                "alt": 7,
+                "stazione_id": 710,
+                "sito_id": 2004,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pocenia Meteo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.358023,
+                    46.061729
+                ]
+            },
+            "properties": {
+                "alt": 106,
+                "stazione_id": 711,
+                "sito_id": 2005,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 1,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Orzano",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.931552,
+                    46.501434
+                ]
+            },
+            "properties": {
+                "alt": 1710,
+                "stazione_id": 712,
+                "sito_id": 2006,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Rifugio Tamai - Zoncolan",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14116,
+                    46.481274
+                ]
+            },
+            "properties": {
+                "alt": 1515,
+                "stazione_id": 713,
+                "sito_id": 2007,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Casera Del Mestri",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248731,
+                    46.456198
+                ]
+            },
+            "properties": {
+                "alt": 1685,
+                "stazione_id": 714,
+                "sito_id": 2008,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Bivacco Bianchi",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.560169,
+                    46.454826
+                ]
+            },
+            "properties": {
+                "alt": 1870,
+                "stazione_id": 715,
+                "sito_id": 2009,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Varmost M.te Simone",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.524321,
+                    46.212269
+                ]
+            },
+            "properties": {
+                "alt": 1479,
+                "stazione_id": 716,
+                "sito_id": 2010,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Malghe Mersino - Matajur",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.029349,
+                    46.587302
+                ]
+            },
+            "properties": {
+                "alt": 1522,
+                "stazione_id": 718,
+                "sito_id": 2012,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pramosio",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.722987,
+                    46.484142
+                ]
+            },
+            "properties": {
+                "alt": 1742,
+                "stazione_id": 719,
+                "sito_id": 2013,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Casera Pieltinis",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89503,
+                    46.594601
+                ]
+            },
+            "properties": {
+                "alt": 2180,
+                "stazione_id": 720,
+                "sito_id": 2014,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Rifugio Marinelli",
+                "complex": false,
+                "min": "MIN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.105049,
+                    46.343737
+                ]
+            },
+            "properties": {
+                "alt": 1504,
+                "stazione_id": 721,
+                "sito_id": 2015,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "S.Simeone Meteo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.585372,
+                    46.11924
+                ]
+            },
+            "properties": {
+                "alt": 620,
+                "stazione_id": 723,
+                "sito_id": 2017,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Tribil Inferiore",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.139569,
+                    46.05721
+                ]
+            },
+            "properties": {
+                "alt": 102,
+                "stazione_id": 724,
+                "sito_id": 2018,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Colloredo di Prato",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.547305,
+                    45.842975
+                ]
+            },
+            "properties": {
+                "alt": 134,
+                "stazione_id": 725,
+                "sito_id": 2019,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Doberdo'",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.996955,
+                    45.772859
+                ]
+            },
+            "properties": {
+                "alt": 11,
+                "stazione_id": 727,
+                "sito_id": 2021,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Latisana Tagl. 1",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.329354,
+                    46.266809
+                ]
+            },
+            "properties": {
+                "alt": 389,
+                "stazione_id": 730,
+                "sito_id": 2024,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Ponte Sambo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.404151,
+                    45.832145
+                ]
+            },
+            "properties": {
+                "alt": 9,
+                "stazione_id": 732,
+                "sito_id": 2026,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Ruda",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.746582,
+                    46.570496
+                ]
+            },
+            "properties": {
+                "alt": 1045,
+                "stazione_id": 733,
+                "sito_id": 2027,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Stadio Biathlon Piani di Luzza",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60278,
+                    46.064354
+                ]
+            },
+            "properties": {
+                "alt": 150,
+                "stazione_id": 741,
+                "sito_id": 2035,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Aviano",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.882533,
+                    46.108575
+                ]
+            },
+            "properties": {
+                "alt": 126,
+                "stazione_id": 742,
+                "sito_id": 2036,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Spilimbergo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.831351,
+                    46.259215
+                ]
+            },
+            "properties": {
+                "alt": 430,
+                "stazione_id": 744,
+                "sito_id": 2038,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Campone",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.471364,
+                    46.246546
+                ]
+            },
+            "properties": {
+                "alt": 508,
+                "stazione_id": 745,
+                "sito_id": 2039,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cellino",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.500194,
+                    46.263561
+                ]
+            },
+            "properties": {
+                "alt": 563,
+                "stazione_id": 747,
+                "sito_id": 2041,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Claut Tre Pini",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.659091,
+                    46.195958
+                ]
+            },
+            "properties": {
+                "alt": 845,
+                "stazione_id": 748,
+                "sito_id": 2042,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pala Barzana",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.700492,
+                    46.009227
+                ]
+            },
+            "properties": {
+                "alt": 73,
+                "stazione_id": 749,
+                "sito_id": 2043,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Cordenons",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.802559,
+                    46.351948
+                ]
+            },
+            "properties": {
+                "alt": 1781,
+                "stazione_id": 751,
+                "sito_id": 2045,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 1,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Rest",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.573013,
+                    46.242252
+                ]
+            },
+            "properties": {
+                "alt": 1817,
+                "stazione_id": 752,
+                "sito_id": 2046,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Baldass",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.485999,
+                    46.349158
+                ]
+            },
+            "properties": {
+                "alt": 1935,
+                "stazione_id": 753,
+                "sito_id": 2047,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Forcella Savalons",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.601821,
+                    46.297339
+                ]
+            },
+            "properties": {
+                "alt": 1015,
+                "stazione_id": 754,
+                "sito_id": 2048,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Casera Podestine",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.564044,
+                    46.255849
+                ]
+            },
+            "properties": {
+                "alt": 1425,
+                "stazione_id": 755,
+                "sito_id": 2049,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Casera Pradut",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.370643,
+                    46.277745
+                ]
+            },
+            "properties": {
+                "alt": 851,
+                "stazione_id": 756,
+                "sito_id": 2050,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Erto e Casso",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.676121,
+                    46.235908
+                ]
+            },
+            "properties": {
+                "alt": 1346,
+                "stazione_id": 758,
+                "sito_id": 2052,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Malga Valine",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.489299,
+                    46.378671
+                ]
+            },
+            "properties": {
+                "alt": 1173,
+                "stazione_id": 759,
+                "sito_id": 2053,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Rifugio Pordenone",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.393682,
+                    46.320701
+                ]
+            },
+            "properties": {
+                "alt": 1717,
+                "stazione_id": 760,
+                "sito_id": 2054,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Rifugio Maniago",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.590968,
+                    46.345209
+                ]
+            },
+            "properties": {
+                "alt": 925,
+                "stazione_id": 761,
+                "sito_id": 2055,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Rifugio Pussa",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.492021,
+                    46.114603
+                ]
+            },
+            "properties": {
+                "alt": 1808,
+                "stazione_id": 762,
+                "sito_id": 2056,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Val dei Sass",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.505815,
+                    46.118073
+                ]
+            },
+            "properties": {
+                "alt": 1704,
+                "stazione_id": 763,
+                "sito_id": 2057,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Val Sughet",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.515438,
+                    46.548152
+                ]
+            },
+            "properties": {
+                "alt": 1729,
+                "stazione_id": 929,
+                "sito_id": 2221,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Malga Acomizza",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.757572,
+                    45.855035
+                ]
+            },
+            "properties": {
+                "alt": 15,
+                "stazione_id": 931,
+                "sito_id": 2223,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Villotta di Chions",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.012036,
+                    46.528107
+                ]
+            },
+            "properties": {
+                "alt": 578,
+                "stazione_id": 933,
+                "sito_id": 2225,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Paluzza",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.656541,
+                    46.171812
+                ]
+            },
+            "properties": {
+                "alt": 343,
+                "stazione_id": 934,
+                "sito_id": 2226,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 3,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Ravedis Invaso",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.993168,
+                    46.241105
+                ]
+            },
+            "properties": {
+                "alt": 776,
+                "stazione_id": 935,
+                "sito_id": 2227,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 2,
+                "sens_rapp": 3,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Monte Prat",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.300462,
+                    46.481926
+                ]
+            },
+            "properties": {
+                "alt": 515,
+                "stazione_id": 936,
+                "sito_id": 2228,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 3,
+                "sens_conf": 2,
+                "sens_rapp": 2,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Pietratagliata",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.686881,
+                    46.496034
+                ]
+            },
+            "properties": {
+                "alt": 849,
+                "stazione_id": 938,
+                "sito_id": 2280,
+                "rete": "3",
+                "rete_nome": "cae",
+                "sito_conf": 2,
+                "sens_conf": 1,
+                "sens_rapp": 1,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Fusine Valico",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.536554,
+                    45.780471
+                ]
+            },
+            "properties": {
+                "alt": 0,
+                "stazione_id": 150,
+                "sito_id": 2256,
+                "rete": "4",
+                "rete_nome": "meteonet",
+                "sito_conf": 2,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.5",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Monfalcone",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.764681,
+                    45.709385
+                ]
+            },
+            "properties": {
+                "alt": 275,
+                "stazione_id": 172,
+                "sito_id": 2264,
+                "rete": "4",
+                "rete_nome": "meteonet",
+                "sito_conf": 2,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Borgo Grotta Gigante",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.486796,
+                    46.11426
+                ]
+            },
+            "properties": {
+                "alt": 160,
+                "stazione_id": 194,
+                "sito_id": 2274,
+                "rete": "4",
+                "rete_nome": "meteonet",
+                "sito_conf": 1,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "San Pietro al Natisone",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5534,
+                    46.557
+                ]
+            },
+            "properties": {
+                "alt": 907,
+                "stazione_id": 41045,
+                "sito_id": 2352,
+                "rete": "53",
+                "rete_nome": "cmtven",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "S.Sefano di Cadore",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4106,
+                    46.4603
+                ]
+            },
+            "properties": {
+                "alt": 841,
+                "stazione_id": 41046,
+                "sito_id": 2353,
+                "rete": "53",
+                "rete_nome": "cmtven",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Domegge di Cadore",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2825,
+                    45.8807
+                ]
+            },
+            "properties": {
+                "alt": 83,
+                "stazione_id": 41078,
+                "sito_id": 2385,
+                "rete": "53",
+                "rete_nome": "cmtven",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Conegliano Veneto",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7083,
+                    46.57
+                ]
+            },
+            "properties": {
+                "alt": 1265,
+                "stazione_id": 41110,
+                "sito_id": 2417,
+                "rete": "53",
+                "rete_nome": "cmtven",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Sappada",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7615,
+                    45.7448
+                ]
+            },
+            "properties": {
+                "alt": 2,
+                "stazione_id": 41127,
+                "sito_id": 2434,
+                "rete": "53",
+                "rete_nome": "cmtven",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Portogruaro Lison",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2458,
+                    46.1995
+                ]
+            },
+            "properties": {
+                "alt": 376,
+                "stazione_id": 41205,
+                "sito_id": 2512,
+                "rete": "53",
+                "rete_nome": "cmtven",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Belluno Aeroporto",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8,
+                    46.833
+                ]
+            },
+            "properties": {
+                "alt": 665,
+                "stazione_id": 43002,
+                "sito_id": 2290,
+                "rete": "56",
+                "rete_nome": "Zamg",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Lienz ",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.867,
+                    46.617
+                ]
+            },
+            "properties": {
+                "alt": 494,
+                "stazione_id": 43007,
+                "sito_id": 2295,
+                "rete": "56",
+                "rete_nome": "Zamg",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Villach",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13,
+                    46.683
+                ]
+            },
+            "properties": {
+                "alt": 707,
+                "stazione_id": 43014,
+                "sito_id": 2302,
+                "rete": "56",
+                "rete_nome": "Zamg",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Koetschach",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.667,
+                    46.6
+                ]
+            },
+            "properties": {
+                "alt": 2160,
+                "stazione_id": 43017,
+                "sito_id": 2305,
+                "rete": "56",
+                "rete_nome": "Zamg",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Villacheralpe_auto",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1718,
+                    46.362
+                ]
+            },
+            "properties": {
+                "alt": 515,
+                "stazione_id": 386034,
+                "sito_id": 3114,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Letali\u009a?e Lesce",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1806,
+                    46.0869
+                ]
+            },
+            "properties": {
+                "alt": 530,
+                "stazione_id": 386036,
+                "sito_id": 3092,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Bor\u009at Gorenja vas",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7245,
+                    45.5481
+                ]
+            },
+            "properties": {
+                "alt": 4,
+                "stazione_id": 386038,
+                "sito_id": 2848,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Koper Kapitanija",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6524,
+                    45.9555
+                ]
+            },
+            "properties": {
+                "alt": 113,
+                "stazione_id": 386225,
+                "sito_id": 2856,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Nova Gorica",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9931,
+                    45.6641
+                ]
+            },
+            "properties": {
+                "alt": 420,
+                "stazione_id": 386229,
+                "sito_id": 2858,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Park Skocj. jame",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9116,
+                    45.9376
+                ]
+            },
+            "properties": {
+                "alt": 965,
+                "stazione_id": 386231,
+                "sito_id": 2857,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Otlica",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7448,
+                    45.5645
+                ]
+            },
+            "properties": {
+                "alt": -2,
+                "stazione_id": 386301,
+                "sito_id": 2855,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Luka Koper",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9013,
+                    45.8663
+                ]
+            },
+            "properties": {
+                "alt": 83,
+                "stazione_id": 386302,
+                "sito_id": 2845,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Dolenje Ajdovscina",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6161,
+                    45.4753
+                ]
+            },
+            "properties": {
+                "alt": 2,
+                "stazione_id": 386308,
+                "sito_id": 2852,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Letalisce Portoroz",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5543,
+                    46.3307
+                ]
+            },
+            "properties": {
+                "alt": 452,
+                "stazione_id": 386330,
+                "sito_id": 2841,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Bovec",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7129,
+                    46.4971
+                ]
+            },
+            "properties": {
+                "alt": 864,
+                "stazione_id": 386331,
+                "sito_id": 2863,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Ratece",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.642,
+                    45.8955
+                ]
+            },
+            "properties": {
+                "alt": 55,
+                "stazione_id": 386402,
+                "sito_id": 2840,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Bilje Nova Gorica",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0816,
+                    46.1675
+                ]
+            },
+            "properties": {
+                "alt": 1188,
+                "stazione_id": 386403,
+                "sito_id": 5566,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Blego\u009a",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9422,
+                    46.2942
+                ]
+            },
+            "properties": {
+                "alt": 596,
+                "stazione_id": 386404,
+                "sito_id": 3091,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Bohinjska ?e\u009anjica",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4331,
+                    46.2628
+                ]
+            },
+            "properties": {
+                "alt": 546,
+                "stazione_id": 386405,
+                "sito_id": 2842,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Breginj",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8885,
+                    46.1401
+                ]
+            },
+            "properties": {
+                "alt": 779,
+                "stazione_id": 386406,
+                "sito_id": 3093,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Bukovski vrh",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0023,
+                    45.9395
+                ]
+            },
+            "properties": {
+                "alt": 716,
+                "stazione_id": 386408,
+                "sito_id": 3141,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Zadlog",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0742,
+                    46.1978
+                ]
+            },
+            "properties": {
+                "alt": 960,
+                "stazione_id": 386409,
+                "sito_id": 2844,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Davka",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8486,
+                    45.7553
+                ]
+            },
+            "properties": {
+                "alt": 320,
+                "stazione_id": 386412,
+                "sito_id": 2846,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Godnje",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0289,
+                    46.0109
+                ]
+            },
+            "properties": {
+                "alt": 325,
+                "stazione_id": 386416,
+                "sito_id": 5507,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "IDRIJA - CISTILNA",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4744,
+                    46.3581
+                ]
+            },
+            "properties": {
+                "alt": 2262,
+                "stazione_id": 386424,
+                "sito_id": 5567,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Kanin",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7517,
+                    46.5167
+                ]
+            },
+            "properties": {
+                "alt": 1072,
+                "stazione_id": 386428,
+                "sito_id": 5568,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Korensko sedlo",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8492,
+                    46.3791
+                ]
+            },
+            "properties": {
+                "alt": 2514,
+                "stazione_id": 386430,
+                "sito_id": 2849,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Kredarica",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6633,
+                    46.2383
+                ]
+            },
+            "properties": {
+                "alt": 910,
+                "stazione_id": 386431,
+                "sito_id": 2850,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Krn",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8689,
+                    45.52
+                ]
+            },
+            "properties": {
+                "alt": 234,
+                "stazione_id": 386433,
+                "sito_id": 5569,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Kubed",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0538,
+                    45.7711
+                ]
+            },
+            "properties": {
+                "alt": 1242,
+                "stazione_id": 386445,
+                "sito_id": 5576,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Nanos",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0525,
+                    46.4672
+                ]
+            },
+            "properties": {
+                "alt": 970,
+                "stazione_id": 386451,
+                "sito_id": 3123,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Planina pod Golico",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9706,
+                    45.8048
+                ]
+            },
+            "properties": {
+                "alt": 153,
+                "stazione_id": 386454,
+                "sito_id": 2861,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Podnanos",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.202,
+                    45.7725
+                ]
+            },
+            "properties": {
+                "alt": 533,
+                "stazione_id": 386455,
+                "sito_id": 2862,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Postojna",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5784,
+                    46.4182
+                ]
+            },
+            "properties": {
+                "alt": 1156,
+                "stazione_id": 386456,
+                "sito_id": 5578,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Predel",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0901,
+                    46.2361
+                ]
+            },
+            "properties": {
+                "alt": 1642,
+                "stazione_id": 386458,
+                "sito_id": 5579,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Ratitovec",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9239,
+                    46.3463
+                ]
+            },
+            "properties": {
+                "alt": 1344,
+                "stazione_id": 386463,
+                "sito_id": 3131,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Rudno polje",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.976,
+                    45.5336
+                ]
+            },
+            "properties": {
+                "alt": 1020,
+                "stazione_id": 386466,
+                "sito_id": 4884,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Slavnik",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7227,
+                    46.178
+                ]
+            },
+            "properties": {
+                "alt": 187,
+                "stazione_id": 386473,
+                "sito_id": 2864,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Tolmin - Vol?e",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8396,
+                    46.2594
+                ]
+            },
+            "properties": {
+                "alt": 1500,
+                "stazione_id": 386481,
+                "sito_id": 5588,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "VOGEL",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9113,
+                    46.0629
+                ]
+            },
+            "properties": {
+                "alt": 970,
+                "stazione_id": 386482,
+                "sito_id": 3134,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "\u008aebreljski vrh",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7478,
+                    46.4329
+                ]
+            },
+            "properties": {
+                "alt": 1684,
+                "stazione_id": 386484,
+                "sito_id": 5585,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Vr\u009ai?",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9352,
+                    46.424
+                ]
+            },
+            "properties": {
+                "alt": 778,
+                "stazione_id": 386487,
+                "sito_id": 3143,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Zgornja Radovna",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0285,
+                    46.2221
+                ]
+            },
+            "properties": {
+                "alt": 846,
+                "stazione_id": 386488,
+                "sito_id": 3144,
+                "rete": "51",
+                "rete_nome": "arso",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "Zgornja Sorica",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.423611,
+                    46.746389
+                ]
+            },
+            "properties": {
+                "alt": 1084,
+                "stazione_id": 111201,
+                "sito_id": 22796,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "SILLIAN",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.873889,
+                    46.618056
+                ]
+            },
+            "properties": {
+                "alt": 495,
+                "stazione_id": 111213,
+                "sito_id": 22800,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "VILLACH",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.096944,
+                    46.721944
+                ]
+            },
+            "properties": {
+                "alt": 546,
+                "stazione_id": 111227,
+                "sito_id": 22806,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "FELDKIRCHEN",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.998333,
+                    46.6775
+                ]
+            },
+            "properties": {
+                "alt": 711,
+                "stazione_id": 111255,
+                "sito_id": 22820,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "KOETSCHACH-MAUTHEN",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6725,
+                    46.603611
+                ]
+            },
+            "properties": {
+                "alt": 2160,
+                "stazione_id": 111265,
+                "sito_id": 22824,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "VILLACHER ALPE- AUTOM.",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.082778,
+                    46.741944
+                ]
+            },
+            "properties": {
+                "alt": 627,
+                "stazione_id": 111270,
+                "sito_id": 22825,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "DELLACH IM DRAUTAL",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.487222,
+                    46.790556
+                ]
+            },
+            "properties": {
+                "alt": 544,
+                "stazione_id": 111272,
+                "sito_id": 22826,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "SPITTAL/DRAU",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8525,
+                    46.727778
+                ]
+            },
+            "properties": {
+                "alt": 892,
+                "stazione_id": 111275,
+                "sito_id": 22827,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "ARRIACH",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.603333,
+                    46.028611
+                ]
+            },
+            "properties": {
+                "alt": 117,
+                "stazione_id": 116036,
+                "sito_id": 24001,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "AVIANO",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.586111,
+                    46.505556
+                ]
+            },
+            "properties": {
+                "alt": 778,
+                "stazione_id": 116040,
+                "sito_id": 24003,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "TARVISIO",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.049167,
+                    45.975556
+                ]
+            },
+            "properties": {
+                "alt": 53,
+                "stazione_id": 116045,
+                "sito_id": 24004,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "UDINE/RIVOLTO",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.351944,
+                    45.505278
+                ]
+            },
+            "properties": {
+                "alt": 6,
+                "stazione_id": 116105,
+                "sito_id": 24026,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "VENEZIA TESSERA",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.472222,
+                    45.8275
+                ]
+            },
+            "properties": {
+                "alt": 11,
+                "stazione_id": 116108,
+                "sito_id": 24028,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "RONCHI DEI LEGIONARI",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.754722,
+                    45.676944
+                ]
+            },
+            "properties": {
+                "alt": 4,
+                "stazione_id": 116110,
+                "sito_id": 24029,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "TRIESTE",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.442778,
+                    45.336944
+                ]
+            },
+            "properties": {
+                "alt": 125,
+                "stazione_id": 114216,
+                "sito_id": 23005,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "RIJEKA/KOZALA",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.931944,
+                    44.896389
+                ]
+            },
+            "properties": {
+                "alt": 63,
+                "stazione_id": 114307,
+                "sito_id": 23021,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "PULA AERODROME",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.945278,
+                    45.240833
+                ]
+            },
+            "properties": {
+                "alt": 293,
+                "stazione_id": 114308,
+                "sito_id": 23022,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "PAZIN",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.581944,
+                    45.223889
+                ]
+            },
+            "properties": {
+                "alt": 83,
+                "stazione_id": 114317,
+                "sito_id": 23024,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "RIJEKA/OMISALJ",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.786667,
+                    46.297778
+                ]
+            },
+            "properties": {
+                "alt": 2006,
+                "stazione_id": 116021,
+                "sito_id": 23997,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "PASSO ROLLE",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22,
+                    46.73
+                ]
+            },
+            "properties": {
+                "alt": 1226,
+                "stazione_id": 116033,
+                "sito_id": 24000,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "DOBBIACO",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.106667,
+                    45.683889
+                ]
+            },
+            "properties": {
+                "alt": 42,
+                "stazione_id": 116098,
+                "sito_id": 24023,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "TREVISO/ISTRANA",
+                "complex": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.183333,
+                    45.65
+                ]
+            },
+            "properties": {
+                "alt": 23,
+                "stazione_id": 116099,
+                "sito_id": 24024,
+                "rete": "100",
+                "rete_nome": "GTS",
+                "sito_conf": -99,
+                "sens_conf": -99,
+                "sens_rapp": 0,
+                "ec": "0.0",
+                "RR_hot": 1,
+                "campo_id": 59182,
+                "nome": "TREVISO/S. ANGELO",
+                "complex": false
+            }
+        }
+    ],
+    "date": "2019-09-30 13:28",
+    "draw": "linear",
+    "top": {
+        "1": {
+            "stazione": "Gorgo(micros)\n",
+            "id": 168
+        },
+        "2": {
+            "stazione": "Pordenone Meteo(cae)\n",
+            "id": 646
+        },
+        "3": {
+            "stazione": "Rivis(micros)\n",
+            "id": 132
+        },
+        "4": {
+            "stazione": "Villotta di Chions(cae)\n",
+            "id": 931
+        },
+        "5": {
+            "stazione": "Spilimbergo(cae)\n",
+            "id": 742
+        }
+    },
+    "s": "a23e44dbbd0f4bc536a3575252ae6b6359ee31c9"
+}
