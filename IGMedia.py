@@ -3,6 +3,7 @@
 import sys
 import requests
 import json
+import datetime
 from urllib.parse import urlencode
 
 # IGMedia script
@@ -20,9 +21,15 @@ class IGMedia:
             f"{k}={v}" for k,v in {
                     'sessionid': '%your_sessionid_cookie%',                
                 }.items()    
-            ]+[''] # to add ; at the end of the cookie row
+            ]+[''] # to add ; at the end      
         )
-        print(self.cookies)
+
+        self.hds = {
+            'User-Agent':'Mozilla/5.0',
+            'Accept':'*/*',
+            'Host':'www.instagram.com',
+            'Cookie':self.cookies,
+        }
 
         #set user
         self.user = user
@@ -60,12 +67,7 @@ class IGMedia:
             )
         r = requests.get(
                 url,
-                headers={
-                    'User-Agent':'Mozilla/5.0',
-                    'Accept':'*/*',
-                    'Host':'www.instagram.com',
-                    'Cookie':self.cookies,
-                }
+                headers=self.hds
             )
         return r.json()
 
@@ -87,34 +89,28 @@ class IGMedia:
             )
         r = requests.get(
                 url,
-                headers={
-                    'User-Agent':'Mozilla/5.0',
-                    'Accept':'*/*',
-                    'Host':'www.instagram.com',
-                    'Cookie':self.cookies,
-                }
+                headers=self.hds
             )
         return r.json()
 
+    def _extractItems(self,result,fp):
+        for i in result["data"]["reels_media"][0]["items"]:
+            fp.write(datetime.datetime.fromtimestamp(int(i["taken_at_timestamp"])).strftime("%d/%m/%Y %H:%M:%S") + ' -> ')
+            if "video_resources" in i.keys():
+                fp.write(i["video_resources"][-1]["src"]+"\n")
+            else:
+                fp.write(i["display_resources"][-1]["src"]+"\n")
+    
     #open a file stories_username.txt and save every story url on a row
     def saveStories(self):
         with open("stories_" + self.user + ".txt","w") as f:
-            for i in self._StorieQuery([str(self.uid)],[])["data"]["reels_media"][0]["items"]:
-                if "video_resources" in i.keys():
-                    f.write(i["video_resources"][-1]["src"]+"\n")
-                else:
-                    f.write(i["display_resources"][-1]["src"]+"\n")
+            self._extractItems(self._StorieQuery([str(self.uid)],[]),f)
     
     #opens a file for every highlight and saves urls as saveStories does
     def saveHighlights(self):
         for reel in self._getHighlights()["data"]["user"]["edge_highlight_reels"]["edges"]:
             with open("highlights_%s_%s.txt" % (self.user,reel["node"]["title"]),"w") as f:
-                hg = self._StorieQuery([],[str(reel["node"]["id"])])
-                for i in hg["data"]["reels_media"][0]["items"]:
-                    if "video_resources" in i.keys():
-                        f.write(i["video_resources"][-1]["src"]+"\n")
-                    else:
-                        f.write(i["display_resources"][-1]["src"]+"\n")
+                self._extractItems(self._StorieQuery([],[str(reel["node"]["id"])]),f)
 
 if __name__ == '__main__':
     if len(sys.argv) >= 2 and len(sys.argv) < 4:
