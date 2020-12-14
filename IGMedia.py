@@ -89,7 +89,7 @@ class IGMedia:
     def download(self,name,url):
         if not os.path.exists(name):
             with open(name,"wb") as f:
-                r = requests.get(url,headers=self.headers)
+                r = requests.get(url,headers={'User-Agent':self.headers['User-Agent']})
                 f.write(r.content)
             print(f"downloaded file {name}")
         else:
